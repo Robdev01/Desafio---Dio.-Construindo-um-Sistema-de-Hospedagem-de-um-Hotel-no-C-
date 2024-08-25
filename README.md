@@ -1,6 +1,6 @@
 # Sistema de Reserva de Hotel
 
-Este projeto é uma aplicação simples em C# desenvolvida como parte de um desafio da [Digital Innovation One](https://digitalinnovation.one) para explorar conceitos fundamentais da linguagem. O sistema simula o processo de reserva de uma suíte de hotel, levando em consideração as regras de negócio especificadas.
+Este projeto é uma aplicação simples em C# desenvolvida como parte de um desafio da DIO para explorar conceitos fundamentais da linguagem. O sistema simula o processo de reserva de uma suíte de hotel, levando em consideração as regras de negócio especificadas.
 
 ## Funcionalidades
 
